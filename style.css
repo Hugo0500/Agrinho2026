@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background-color: #f0f0f0;
+  background-color: #eef5ee;
 }
 
 h1 {
@@ -10,5 +10,21 @@ h1 {
 
 canvas {
   border: 2px solid #333;
-  margin-top: 20px;
+  margin: 20px;
+}
+
+.controls {
+  margin: 15px;
+}
+
+.alert {
+  font-weight: bold;
+  color: red;
+  font-size: 18px;
+}
+
+.education {
+  font-style: italic;
+  color: #1565c0;
+  margin-top: 10px;
 }
